@@ -36,5 +36,6 @@
     },
     "scripts-descriptions": {
         "check": "Roda as verificações do código: PHAN e PHPCS."
-    }
+    },
+    "license": "GPL-3.0"
 }
